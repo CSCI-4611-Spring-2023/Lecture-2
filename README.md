@@ -2,6 +2,8 @@
 
 You can run the program on [GitHub pages](https://csci-4611-spring-2023.github.io/Lecture-2).
 
+The latest commit is the finished code that was pushed at the end of class.  If you are intending to implement this program while watching the lecture video, you should checkout the commit labeled `pre-class commit`  to get the starter code.
+
 ## Prerequisites
 
 To work with this code, you will first need to install [Node.js 18.13.0 LTS](https://nodejs.org/en/) (or newer) and [Visual Studio Code](https://code.visualstudio.com/). 
